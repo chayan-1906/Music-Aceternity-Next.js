@@ -1,4 +1,16 @@
-# Music
+# Music-Aceternity-Next.js
+
+### This project is a responsive and user-friendly website built using Next.js 15 and the Aceternity UI library for a Music Academy. The website serves as an online platform for the academy, allowing end-users to explore courses, view schedules, and access important information about the school.
+
+Features:
+
+• Intuitive and modern UI with Aceternity components.
+
+• Optimized for performance and accessibility.
+
+• Dynamic course and schedule management.
+
+• Responsive design for all devices.
 
 ## Available Scripts
 
