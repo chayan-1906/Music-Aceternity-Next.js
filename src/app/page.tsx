@@ -1,7 +1,8 @@
 import HeroSection from "@/components/hero-section";
 import FeaturedCourses from "@/components/featured-courses";
 import WhyChooseUs from "@/components/why-choose-us";
-import MusicSchoolTestimonials from "@/components/MusicSchoolTestimonials";
+import MusicSchoolTestimonials from "@/components/music-school-testimonials";
+import UpcomingWebinars from "@/components/upcoming-webinars";
 
 function Home() {
     return (
@@ -10,6 +11,7 @@ function Home() {
             <FeaturedCourses/>
             <WhyChooseUs/>
             <MusicSchoolTestimonials/>
+            <UpcomingWebinars/>
         </main>
     );
 }
