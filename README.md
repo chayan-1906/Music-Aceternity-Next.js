@@ -49,3 +49,20 @@ Your app is ready to be deployed!
 
 
 # Preview
+<table>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/99a6df85-3bf2-4097-b637-f52a1df1c9b6" alt="hero"/></td>
+        <td><img src="https://github.com/user-attachments/assets/6b63d086-98ce-4c3f-ac08-139b1272d594" alt="featured-courses"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/7f7bb7a5-e2d3-4c8b-b11b-fd029b93f679" alt="why-choose-us"/></td>
+        <td><img src="https://github.com/user-attachments/assets/78b13d87-8120-4ffa-ab90-3639fcecbc2e" alt="music-testimonials"/></td>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/user-attachments/assets/fb4333c4-7381-4cbd-a70d-d317f2ca14ab" alt="upcoming-webinars"/></td>
+        <td><img src="https://github.com/user-attachments/assets/78cc94fa-9ccb-4192-aab5-b89dbbd472f0" alt="instructors"/></td>
+    </tr>
+    <tr>
+        <td colspan="2"><img src="https://github.com/user-attachments/assets/d918efa8-e4a9-41cd-897c-ec999704775f" alt="footer"/></td>
+    </tr>
+</table>
